@@ -6,7 +6,7 @@ A simple social media app that allows users to post interesting events that happ
  
  ##  TO DO CLIENT SIDE
  - [x] set up frontend backbone with vite and typescript
- - [ ] set up git repo for project
+ - [x] set up git repo for project
  - [ ] set up eslint for client side
 
 
